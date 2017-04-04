@@ -2,7 +2,7 @@
   "name": "react-native-fit-image",
   "version": "1.4.5",
   "description": "Responsive image component to fit perfectly itself.",
-  "main": "dist/FitImage.js",
+  "main": "src/FitImage.js",
   "scripts": {
     "build": "babel src -d dist",
     "build-and-publish": "npm run build && npm publish",
